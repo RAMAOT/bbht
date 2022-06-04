@@ -11,12 +11,21 @@ sudo apt-get install -y libcurl4-openssl-dev libxml2 libxml2-dev libxslt1-dev ru
 sudo apt-get install -y build-essential libssl-dev libffi-dev python-dev
 sudo apt-get install -y python-setuptools
 sudo apt-get install -y libldns-dev
+sudo apt-get install -y python2-pip
 sudo apt-get install -y python3-pip
 sudo apt-get install -y python-pip
 sudo apt-get install -y python-dnspython
 sudo apt-get install -y git
 sudo apt-get install -y rename
 sudo apt-get install -y xargs
+sudo apt-get install -y curl
+sudo apt-get install -y bc
+sudo apt-get install -y wget
+sudo apt-get install -y nano
+sudo apt-get install -y figlet
+sudo apt-get install -y fish
+
+
 
 echo "installing bash_profile aliases from recon_profile"
 git clone https://github.com/nahamsec/recon_profile.git
