@@ -1,6 +1,6 @@
+#!/bin/bash
 sudo apt-get -y update
 sudo apt-get -y upgrade
-
 
 sudo adduser oo --gecos "First Last,RoomNumber,WorkPhone,HomePhone" --disabled-password
 
