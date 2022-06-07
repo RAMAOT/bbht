@@ -198,4 +198,5 @@ echo "done"
 
 echo -e "\n\n\n\n\n\n\n\n\n\n\nDone! All tools are set up in ~/tools"
 ls -la
-echo "One last time: don't forget to set up AWS credentials in ~/.aws/!"
+echo "Edited And Developed by H4k3rDr01D"
+echo "Touched By The Urban Guy"
